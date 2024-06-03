@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 🧩 &nbsp;Still learning and exploring new things.
 
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liza337&label=Profile%20views&color=0e75b6&style=flat" alt="Liza337" /> </p>
+
+<p align="left">
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -71,7 +77,6 @@ Here are some ideas to get you started:
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Liza337&show_icons=true&locale=en" alt="Liza337" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Liza337&" alt="Liza337" /></p>
-
 
 
 
