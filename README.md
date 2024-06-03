@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi 👋, I'm Liza Akter
-<p  align="center"><img alt="coding" width="75%" src="https://images.app.goo.gl/JqTZyE2diVfD3LLX6"></p><br>
+<p  align="center"><img alt="coding" width="75%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"></p><br>
 
 I'm an undergraduate student of Computer Science and Engineering at Jahangirnagar University. Still learning new things.
 
