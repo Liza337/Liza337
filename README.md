@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-🎓 &nbsp;A final year student at JU.\
+🎓 &nbsp;A final year CSE student at Jahangirnagar University.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
-💬 &nbsp;Feel free to connect with me.\
 🧩 &nbsp;Still learning and exploring new things.
 
 
