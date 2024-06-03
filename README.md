@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 
 <br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Liza337&label=Profile%20views&color=0e75b6&style=flat" alt="Liza337" /> </p>
 
 <p align="left">
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liza337&show_icons=true&locale=en&layout=compact" alt="Liza337" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liza337&show_icons=true&locale=en&layout=compact" alt="Liza337" /></p>
 <br>
 <br>
 <br>
