@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🧩 &nbsp;Still learning and exploring new things.
 
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Liza337&label=Profile%20views&color=0e75b6&style=flat" alt="Liza337" /> </p>
 
 <p align="left">
