@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liza337&show_icons=true&locale=en&layout=compact" alt="Liza337" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liza337&show_icons=true&locale=en&layout=compact" alt="Liza337" /></p>
 <br>
 <br>
 <br>
