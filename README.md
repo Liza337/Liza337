@@ -25,11 +25,8 @@ Here are some ideas to get you started:
 🎓 &nbsp;A final year student at JU.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
 💬 &nbsp;Feel free to connect with me.\
-🧩 &nbsp;Always up for a new challenges.
+🧩 &nbsp;Still learning and exploring new things.
 
-
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liza337&label=Profile%20views&color=0e75b6&style=flat" alt="Liza337" /> </p>
 
 <p align="left">
 </p>
