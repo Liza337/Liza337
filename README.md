@@ -74,3 +74,5 @@ I'm an undergraduate student of Computer Science and Engineering at Jahangirnaga
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Liza337&show_icons=true&locale=en" alt="Liza337" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Liza337&" alt="Liza337" /></p>
 
+<p align="center"><img alt="coding" width="75%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
+
