@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"> Hi there! 👋, I'm Liza Akter</h1>
 
 
-# Hi 👋, I'm Liza Akter
-<p  align="center"><img alt="coding" width="75%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"></p><br>
+<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
 
-I'm an undergraduate student of Computer Science and Engineering at Jahangirnagar University. Still learning new things.
+<br>
+<br>
+
+🎓 &nbsp;A final year student at JU.\
+⭐ &nbsp;You can find my projects in the repositories section.\
+💬 &nbsp;Feel free to connect with me.\
+🧩 &nbsp;Always up for a new challenges.
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
